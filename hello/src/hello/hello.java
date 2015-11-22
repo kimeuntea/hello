@@ -1,8 +1,8 @@
 package hello;
-
+/*git teset*/
 public class hello {
 	public static void main(String[] args) {
-		System.out.println("±¸±¸´Ü ");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ");
 		for (int i = 1; i < 10; i++) {
 			System.out.println("\n");
 			for (int j = 2; j < 6; j++) {
